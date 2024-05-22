@@ -5,19 +5,20 @@ JS Exercise
 Instructions to this assignment can be found [here](https://reedws.github.io/IT3049C/coursework/assignments/js-exercises/).
 
 ## Checklist:
-- [ ] update the assignment checks above to the correct link
+- [x] update the assignment checks above to the correct link
 ```md
-- [x] This task is complete.
+- [ ] This task is complete.
 ```
 - [ ] All Unit tests passed.
-- [ ] filled out the self-evaluation.
-- [ ] filled out the self-reflection.
+- [x] filled out the self-evaluation.
+- [x] filled out the self-reflection.
 
 ## Self-Evaluation: 
 (For this assignment, there was 22 exercises checked by 69 automated checks)
-how many points out of 20 do you deserve on this assignment:
+how many points out of 20 do you deserve on this assignment: 2
 
 ## Self-Reflection:
 <!-- What did you learn that you found interesting -->
-
+I personally need to dedicate more time to this class also I am incredibly lost in how the npm install works didnt really need it first week and realizing now I dratically need it now.
 ### How long it took you to finish this?
+1 hour of trying to install this node and following what examples I could
